@@ -33,5 +33,3 @@ Non è necessario provvedere alla validazione delle email
       - crea un ciclo loop chiedendo di riprovare la mail finchè non è valida.
 - a fine ciclo stampa messaggio per invitato.
 
-### Procedimento test 3:
-
