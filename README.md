@@ -11,25 +11,10 @@ Non è consentito usare nessun metodo proprio degli array (come includes, per es
 Nota:
 Non è necessario provvedere alla validazione delle email
 
-### Procedimento test 1:
+### Procedimento:
 
 - creazione lista array per email;
-- creazione ciclo for che si deve interrompere quando la lista degli invitati è finita;
-- chiedi all'utente mail e nome con 2 prompt;
-   - SE l'email è nella lista;
-      - stampa messaggio appropriato.
-   - altrimenti:
-      - stampa messaggio per mail non nella lista
-      - togli un iterazione
-
-- a fine ciclo stampa che gli invitati 
-
-### Procedimento test 2:
-
-- creazione lista array per email;
-- creazione ciclo for che si deve interrompere quando l'utente inserisce una mail valida;
-- chiedi all'utente mail con prompt;
-   - SE l'email non è nella lista;
-      - crea un ciclo loop chiedendo di riprovare la mail finchè non è valida.
-- a fine ciclo stampa messaggio per invitato.
-
+- chiedi all'utente mail;
+- creo valore booleano;
+- creazione ciclo for che si deve interrompere quando la lista degli invitati viene esaminata tutta oppure quando la mail viene trovata;
+- se la mail è stata trovata stampa un messaggio positivo altrimenti stampane uno negativo.
