@@ -37,4 +37,5 @@ Invece di generare il numero random per l'utente, chiedilo con un prompt!
 bonus:
 - genero un numero random per il computer e lo stampo
 - chiedo al giocatore di inserire un numero da 1 a 6 e lo stampo
-- creo un if dove stabilisco il vincitore o se si verifica un pareggio.
+- creo 3 variabili per controlla che abbia inserito un numero intero da 1 a 6
+- creo un if dove: SE il valore inserito non è quelllo richiesto interrompi con un alert altrimenti stabilisco il vincitore o se si verifica un pareggio.
