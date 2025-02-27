@@ -24,13 +24,3 @@ for (let i = 0; i < 1; i++) {
 }
 //a fine ciclo stampa messaggio per invitato
 console.log('La tua mail è presente nella lista degli invitati.')
-
-//    - SE l'email è nella lista;
-//       - stampa messaggio appropriato.
-//       - test: stampa mail
-//    - altrimenti:
-//       - stampa messaggio per mail non nella lista
-//       - togli un iterazione
-//       - test: stampa mail
-
-// - a fine ciclo stampa che gli invitati 

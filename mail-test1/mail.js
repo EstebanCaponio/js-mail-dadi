@@ -25,13 +25,3 @@ for (let i = 0; i < list.length; i++) {
 }
 //a fine ciclo stampa che gli invitati 
 console.log('Tutti gli invitati si sono registrati.')
-
-//    - SE l'email è nella lista;
-//       - stampa messaggio appropriato.
-//       - test: stampa mail
-//    - altrimenti:
-//       - stampa messaggio per mail non nella lista
-//       - togli un iterazione
-//       - test: stampa mail
-
-// - a fine ciclo stampa che gli invitati 
